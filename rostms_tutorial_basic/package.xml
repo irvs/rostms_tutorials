@@ -2,13 +2,13 @@
 <package>
   <name>rostms_tutorial_basic</name>
   <version>0.1.1</version>
-  <license>TODO</license>
+  <license>BSD</license>
   <description>The rostms_tutorial_basic package</description>
 
   <maintainer email="passionvirus@gmail.com">Yoonseok Pyo</maintainer>
 
-  <url type="website">http://robotics.ait.kyushu-u.ac.jp/</url>
-  <url type="git">http://http://orion.ait.kyushu-u.ac.jp/HRSG/rostms_tutorials/</url>
+  <url type="website">http://robotics.ait.kyushu-u.ac.jp/index-e.html</url>
+  <url type="git">https://github.com/irvs/rostms_tutorials</url>
 
   <author email="passionvirus@gmail.com">Yoonseok Pyo</author>
 
